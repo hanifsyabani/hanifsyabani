@@ -94,18 +94,3 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifsyabani&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/hanifsyabani)
 
 </div>
-
----
-
-
-
-
-</div>
-
----
-
-<div align="center">
-
-**Created with 💜 by Muhammad Hanif Sya'bani**
-
-</div>
