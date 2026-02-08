@@ -15,7 +15,6 @@
 - 🔭 Currently working on **Full Stack & ML Projects**
 - 🌱 Learning **Advanced AI/ML techniques**
 - 💡 Passionate about creating **impactful solutions**
-- ⚡ Fun fact: **Code is poetry in motion**
 
 <br clear="right"/>
 
@@ -98,23 +97,8 @@
 
 ---
 
-## ✍️ Random Dev Quote
 
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=hanifsyabani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-### Show some ❤️ by starring some repositories!
 
 </div>
 
